@@ -43,7 +43,7 @@ Air-Walker (Gabriel Lan),
 ```
 $ git clone https://github.com/RakelMacedo/Consuming-Marvel-API.git
 
-$ cd Consuming-Marvel-API.git/
+$ cd Consuming-Marvel-API/
 ```
 
 * Agora, vamos criar o nosso ambiente virtual e ativa-lo:
