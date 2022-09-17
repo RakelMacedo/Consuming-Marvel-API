@@ -9,6 +9,9 @@ Leia também https://developer.marvel.com/documentation/authorization
 
 <br>
 
+![image](https://user-images.githubusercontent.com/78339857/190871633-b970c52d-13d7-4f4d-bb8a-a0660c8beba4.png)
+
+
 ### Arquivo csv após a consumação da API: 
 
 ```bash
